@@ -1,0 +1,9 @@
+MasterCard\Api\StpApiSdk\Provider
+ [x] get provider
+
+MasterCard\Api\StpApiSdk\Providers
+ [x] get providers
+
+MasterCard\Api\StpApiSdk\Suppliers
+ [x] create supplier
+

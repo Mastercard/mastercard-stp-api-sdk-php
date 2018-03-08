@@ -1,0 +1,107 @@
+{
+    "event": "suiteStart",
+    "suite": "Application Test Suite",
+    "tests": 6
+}{
+    "event": "suiteStart",
+    "suite": "MasterCard\\Api\\StpApiSdk\\PaymentTest",
+    "tests": 1
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\StpApiSdk\\PaymentTest",
+    "test": "Warning"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\StpApiSdk\\PaymentTest",
+    "test": "Warning",
+    "status": "warning",
+    "time": 0.0012931823730469,
+    "trace": [],
+    "message": "No tests found in class \"MasterCard\\Api\\StpApiSdk\\PaymentTest\".\n",
+    "output": ""
+}{
+    "event": "suiteStart",
+    "suite": "MasterCard\\Api\\StpApiSdk\\PaymentsTest",
+    "tests": 1
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\StpApiSdk\\PaymentsTest",
+    "test": "Warning"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\StpApiSdk\\PaymentsTest",
+    "test": "Warning",
+    "status": "warning",
+    "time": 7.3909759521484e-5,
+    "trace": [],
+    "message": "No tests found in class \"MasterCard\\Api\\StpApiSdk\\PaymentsTest\".\n",
+    "output": ""
+}{
+    "event": "suiteStart",
+    "suite": "MasterCard\\Api\\StpApiSdk\\ProviderTest",
+    "tests": 1
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\StpApiSdk\\ProviderTest",
+    "test": "MasterCard\\Api\\StpApiSdk\\ProviderTest::test_get_provider"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\StpApiSdk\\ProviderTest",
+    "test": "MasterCard\\Api\\StpApiSdk\\ProviderTest::test_get_provider",
+    "status": "pass",
+    "time": 0.58823800086975,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "suiteStart",
+    "suite": "MasterCard\\Api\\StpApiSdk\\ProvidersTest",
+    "tests": 1
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\StpApiSdk\\ProvidersTest",
+    "test": "MasterCard\\Api\\StpApiSdk\\ProvidersTest::test_get_providers"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\StpApiSdk\\ProvidersTest",
+    "test": "MasterCard\\Api\\StpApiSdk\\ProvidersTest::test_get_providers",
+    "status": "pass",
+    "time": 0.58891105651855,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "suiteStart",
+    "suite": "MasterCard\\Api\\StpApiSdk\\SupplierTest",
+    "tests": 1
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\StpApiSdk\\SupplierTest",
+    "test": "Warning"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\StpApiSdk\\SupplierTest",
+    "test": "Warning",
+    "status": "warning",
+    "time": 9.4175338745117e-5,
+    "trace": [],
+    "message": "No tests found in class \"MasterCard\\Api\\StpApiSdk\\SupplierTest\".\n",
+    "output": ""
+}{
+    "event": "suiteStart",
+    "suite": "MasterCard\\Api\\StpApiSdk\\SuppliersTest",
+    "tests": 1
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\StpApiSdk\\SuppliersTest",
+    "test": "MasterCard\\Api\\StpApiSdk\\SuppliersTest::test_create_supplier"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\StpApiSdk\\SuppliersTest",
+    "test": "MasterCard\\Api\\StpApiSdk\\SuppliersTest::test_create_supplier",
+    "status": "pass",
+    "time": 0.66379594802856,
+    "trace": [],
+    "message": "",
+    "output": ""
+}
